@@ -1,0 +1,7 @@
+Component Layering Strategy
+- Components → reusable UI elements
+- Pages → combine components to form complete views
+- Public → contains static resources
+
+ Conclusion
+This setup ensures a clean and maintainable project structure following basic software development practices.
