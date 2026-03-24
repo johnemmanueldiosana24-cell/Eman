@@ -1,0 +1,26 @@
+# Laboratory 1: Tools & Architecture Setup
+
+Student Information
+Name: OLUDIN GODOFREDO E.
+
+Initialize Project
+This project was initialized using GitHub on Android. A repository was created to manage and track files using version control.
+
+Project Structure
+lab1-project/
+│── src/
+│   ├── components/
+│   ├── pages/
+│── public/
+│── README.md
+
+ Purpose of Structure
+The folder structure helps organize the project efficiently. It separates reusable components, main pages, and static files, making the code easier to manage and scale.
+
+Component Layering Strategy
+- Components → reusable UI elements
+- Pages → combine components to form complete views
+- Public → contains static resources
+
+Conclusion
+This setup ensures a clean and maintainable project structure following basic software development practices.
